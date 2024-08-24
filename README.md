@@ -66,3 +66,5 @@
     soma += cont // coloquei o valor do cont no soma 
     }
       console.log('A soma de todos os numeros impares do numero fornecido é:' + soma)
+
+atv realizada com a ajuda do @CauaCanale
